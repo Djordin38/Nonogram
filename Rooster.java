@@ -1,7 +1,7 @@
 package Nonogram;
 
 public class Rooster {
-      public static void main(String[] args) {
+          public static void main(String[] args) {
         String[][] testArray = new String[5][5];
 
         for (int i = 0; i < testArray.length; i++) {
